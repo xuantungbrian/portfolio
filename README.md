@@ -1,0 +1,3 @@
+TODO:
+- Add more experience, skills...
+- Take examples from the portfolio of the netflix guy and maybe style it more instead of one page for everything

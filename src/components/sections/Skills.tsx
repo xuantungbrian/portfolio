@@ -1,4 +1,5 @@
 export default function Skills() {
+  // Needs to do something about this
   const skills = [
     'Java', 'Python', 'JavaScript', 'React', 'Node.js', 'SQL', 'Docker', 'Selenium'
   ]
